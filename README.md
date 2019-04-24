@@ -1,6 +1,6 @@
-# skripsi_2_0
+# EV Dashboard with Android OS
 
-A new Flutter project.
+Skripsinya ado. Dibuat pake framework flutter. Tapi untuk bluetooth pake kotlin. Mksh.
 
 ## Getting Started
 
